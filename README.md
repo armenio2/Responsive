@@ -14,10 +14,6 @@ This project was done to refine my studies on responsiveness.
 
 I recommend that you change the size of the screen to see the behavior of the columns.
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [HTML5]
