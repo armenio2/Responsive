@@ -1,4 +1,4 @@
-# Responsive Coluns
+# Responsive Columns
 
 This project was done to refine my studies on responsiveness.
 
@@ -9,10 +9,6 @@ This project was done to refine my studies on responsiveness.
 ```
 -git clone https://github.com/armenio2/Responsive.git
 ```
-
-## Running the tests
-
-I recommend that you change the size of the screen to see the behavior of the columns.
 
 ## Built With
 
