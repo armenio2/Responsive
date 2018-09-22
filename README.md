@@ -18,4 +18,3 @@ This project was done to refine my studies on responsiveness.
 ## Contributing
 
 https://www.w3schools.com/
-
